@@ -132,3 +132,14 @@ a {
   }
 }
 /* end of animations */
+/* content divider */
+.content-divider {
+  height: 0.5rem;
+  background: linear-gradient(
+    to left,
+    var(--primaryColor),
+    var(--secondaryColor),
+    var(--primaryColor)
+  );
+}
+/* end of content divider */
