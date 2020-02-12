@@ -342,6 +342,7 @@ a {
   font-weight: bold;
 }
 .form-control::placeholder {
+  font-family: 'Catamaran', sans-serif;
   color: var(--primaryColor);
   text-transform: uppercase;
   letter-spacing: var(--letterSpacing);
